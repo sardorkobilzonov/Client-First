@@ -1,0 +1,39 @@
+footer {
+  background-color: #1c1e53;
+}
+footer .foot {
+  display: flex;
+  gap: 259px;
+  flex-wrap: wrap;
+}
+footer .foot .foot__inform {
+  padding-top: 130px;
+  padding-left: 160px;
+}
+footer .foot .foot__inform .foot__text {
+  max-width: 380px;
+  width: 100%;
+  color: #d2d2d6;
+  padding-top: 23px;
+  padding-bottom: 180px;
+  font-size: 18px;
+}
+footer .foot .let {
+  padding-top: 130px;
+}
+footer .foot .let .let__h2 {
+  font-size: 32px;
+  color: #fff;
+}
+footer .foot .let .foot__text {
+  padding-top: 15px;
+  width: 100%;
+  max-width: 330px;
+  font-size: 18px;
+  color: #d2d2d6;
+}
+footer .foot .let img {
+  padding-top: 28px;
+  cursor: pointer;
+  font-size: 20px;
+}/*# sourceMappingURL=footer.css.map */

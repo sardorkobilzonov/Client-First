@@ -1,0 +1,39 @@
+footer {
+  background-color: #1c1e53;
+  .foot {
+    display: flex;
+    gap: 259px;
+    flex-wrap: wrap;
+    .foot__inform {
+      padding-top: 130px;
+      padding-left: 160px;
+      .foot__text {
+        max-width: 380px;
+        width: 100%;
+        color: #d2d2d6;
+        padding-top: 23px;
+        padding-bottom: 180px;
+        font-size: 18px;
+      }
+    }
+    .let {
+      padding-top: 130px;
+      .let__h2 {
+        font-size: 32px;
+        color: #fff;
+      }
+      .foot__text {
+        padding-top: 15px;
+        width: 100%;
+        max-width: 330px;
+        font-size: 18px;
+        color: #d2d2d6;
+      }
+      img {
+        padding-top: 28px;
+        cursor: pointer;
+        font-size: 20px;
+      }
+    }
+  }
+}
